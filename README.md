@@ -1,4 +1,4 @@
-# Informática 2 R2052 - Año 2024
+# Informática 2 R2052 - Año 2025
 Bienvenidos al repo de Informática 2 de Ingeniería Electrónica en UTN FRBA.
 Este espacio ha sido diseñado para proporcionar a los estudiantes acceso a una variedad de recursos educativos que complementarán su aprendizaje durante el curso.
 
